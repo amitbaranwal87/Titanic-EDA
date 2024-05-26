@@ -12,3 +12,6 @@ def div(x,y):
         print("division not possible")
     else: 
         return(x/y)
+
+def remainder(x,y):
+    return(x%y)
