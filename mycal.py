@@ -16,4 +16,4 @@ def div(x,y):
 def remainder(x,y):
     return(x%y)
 
-print("this is a calculator")
+print("this is a calculator, nice")
